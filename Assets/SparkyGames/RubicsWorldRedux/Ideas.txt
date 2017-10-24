@@ -1,0 +1,6 @@
+Add teams
+
+Add power ups that can stun players or alter world slightly to harm opponents or help user.
+
+if dealing with extra long multirow blocks we could check size then recast with the biggest size and rotate all unless a new greater size is found 
+might need center of hit object to make sure we only grab one row if near the edge.
